@@ -9,3 +9,15 @@
 I'm a Software Development student passionate about building web applications and continuously learning new technologies.
 
 I enjoy working on both frontend and backend development, with a growing focus on Java, Spring Boot, databases, and cloud technologies.
+
+🛠️ Technologies & Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github" /> </p>
+
+📚 Currently learning
+HTML & CSS
+JavaScript
+MySQL
+Git & GitHub
+
+🚀 Always learning and building new projects.
